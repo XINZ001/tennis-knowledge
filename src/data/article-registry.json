@@ -1,0 +1,950 @@
+{
+  "categories": [
+    {
+      "id": "beginner",
+      "title": {
+        "zh": "入门指南",
+        "en": "Getting Started"
+      },
+      "icon": "rocket",
+      "color": "#4CAF50",
+      "description": {
+        "zh": "零基础也能看懂的网球入门文章",
+        "en": ""
+      }
+    },
+    {
+      "id": "gear",
+      "title": {
+        "zh": "装备实验室",
+        "en": "Gear Lab"
+      },
+      "icon": "tool",
+      "color": "#FF9800",
+      "description": {
+        "zh": "球拍、球线、球鞋的深度选购与使用指南",
+        "en": ""
+      }
+    },
+    {
+      "id": "technique",
+      "title": {
+        "zh": "技术诊所",
+        "en": "Technique Clinic"
+      },
+      "icon": "target",
+      "color": "#2196F3",
+      "description": {
+        "zh": "常见技术问题的诊断与解决方案",
+        "en": ""
+      }
+    },
+    {
+      "id": "tactics",
+      "title": {
+        "zh": "比赛智慧",
+        "en": "Match IQ"
+      },
+      "icon": "brain",
+      "color": "#9C27B0",
+      "description": {
+        "zh": "战术、心理、比赛策略的实战指南",
+        "en": ""
+      }
+    },
+    {
+      "id": "health",
+      "title": {
+        "zh": "健康与体能",
+        "en": "Health & Fitness"
+      },
+      "icon": "shield",
+      "color": "#F44336",
+      "description": {
+        "zh": "伤病预防、体能训练、营养恢复",
+        "en": ""
+      }
+    }
+  ],
+  "articles": [
+    {
+      "id": "art-001",
+      "slug": "cost-of-tennis",
+      "category": "beginner",
+      "priority": 1,
+      "title": {
+        "zh": "打网球到底要花多少钱？",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "装备、场地、教练：从节约型到发烧型的真实费用拆解",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 10,
+      "relatedKpIds": [
+        "kp-0105",
+        "kp-0106",
+        "kp-0107",
+        "kp-0110"
+      ],
+      "tags": [
+        "beginner",
+        "cost",
+        "getting-started"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "打网球要花多少钱？2026 真实费用清单 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "从球拍到场地到教练，详细拆解打网球的真实花费。分节约型、标准型、发烧型三档预算，帮你做出合理的投入规划。",
+          "en": ""
+        },
+        "keywords": [
+          "打网球多少钱",
+          "网球费用",
+          "网球花费",
+          "学网球多少钱",
+          "网球装备价格"
+        ]
+      },
+      "emoji": "💰"
+    },
+    {
+      "id": "art-002",
+      "slug": "adult-beginner",
+      "category": "beginner",
+      "priority": 2,
+      "title": {
+        "zh": "成年人学网球，来得及吗？",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "给 25-45 岁的专属入门指南：合理预期、优势利用与心理障碍突破",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 9,
+      "relatedKpIds": [
+        "kp-0109",
+        "kp-0110",
+        "kp-0101"
+      ],
+      "tags": [
+        "beginner",
+        "adult",
+        "motivation"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "成年人学网球来得及吗？25-45 岁入门完整指南 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "30 岁开始学网球完全来得及。本文详解成年人学网球的优势与挑战、合理的进步预期、以及如何利用已有的运动基础快速上手。",
+          "en": ""
+        },
+        "keywords": [
+          "成年人学网球",
+          "30岁学网球",
+          "网球入门年龄",
+          "成人网球培训"
+        ]
+      },
+      "emoji": "🎯"
+    },
+    {
+      "id": "art-003",
+      "slug": "tennis-vs-badminton",
+      "category": "beginner",
+      "priority": 3,
+      "title": {
+        "zh": "从羽毛球/乒乓球转网球，你需要知道这些",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "哪些经验能迁移、哪些习惯必须忘掉、转项最容易犯的三个错误",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 9,
+      "relatedKpIds": [
+        "kp-0101",
+        "kp-0203",
+        "kp-0601",
+        "kp-0201"
+      ],
+      "tags": [
+        "beginner",
+        "comparison",
+        "transition"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "网球和羽毛球乒乓球有什么不同？转项指南 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "有羽毛球或乒乓球基础的人学网球，哪些技能可以迁移？哪些习惯必须改掉？详解两类运动的核心差异和转项路线图。",
+          "en": ""
+        },
+        "keywords": [
+          "网球和羽毛球的区别",
+          "羽毛球转网球",
+          "乒乓球转网球",
+          "网球和乒乓球区别"
+        ]
+      },
+      "emoji": "🔄"
+    },
+    {
+      "id": "art-004",
+      "slug": "racket-guide-2026",
+      "category": "gear",
+      "priority": 1,
+      "title": {
+        "zh": "新手选拍不焦虑：四个参数搞定球拍选择",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "不推荐型号只讲逻辑，附不同水平选拍策略与决策流程图",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 12,
+      "relatedKpIds": [
+        "kp-0105",
+        "kp-0106"
+      ],
+      "tags": [
+        "gear",
+        "racket",
+        "buying-guide"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "2026 网球拍选购指南 | 新手怎么选球拍 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "不推荐具体型号，只讲选拍逻辑。拍面大小、重量、平衡点、硬度四大参数详解，不同水平的选拍策略，以及最常见的选拍误区。",
+          "en": ""
+        },
+        "keywords": [
+          "网球拍怎么选",
+          "新手网球拍推荐",
+          "网球拍参数",
+          "初学者球拍",
+          "Wilson Babolat Head 哪个好"
+        ]
+      },
+      "emoji": "🎾"
+    },
+    {
+      "id": "art-005",
+      "slug": "string-secrets",
+      "category": "gear",
+      "priority": 2,
+      "title": {
+        "zh": "换一根线比换球拍更有用？球线选择完全指南",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "聚酯、尼龙、天然肠线的特性对比，以及 90% 的人忽视的磅数密码",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 9,
+      "relatedKpIds": [
+        "kp-0106",
+        "kp-0105",
+        "kp-0806"
+      ],
+      "tags": [
+        "gear",
+        "strings",
+        "customization"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "网球线怎么选？穿多少磅？球线完全指南 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "球线对手感的影响可能超过球拍本身。详解聚酯线、尼龙线、天然肠线的特性差异，磅数如何影响控制和力量，以及不同水平的选线建议。",
+          "en": ""
+        },
+        "keywords": [
+          "网球线怎么选",
+          "网球穿线磅数",
+          "聚酯线还是尼龙线",
+          "网球线推荐"
+        ]
+      },
+      "emoji": "🧵"
+    },
+    {
+      "id": "art-006",
+      "slug": "forehand-diagnosis",
+      "category": "technique",
+      "priority": 1,
+      "title": {
+        "zh": "正手总出界或下网？对症下药的六步诊断",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "像医生问诊一样，从症状追溯原因，找到你正手的真正问题",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 11,
+      "relatedKpIds": [
+        "kp-0212",
+        "kp-0203",
+        "kp-0205",
+        "kp-0207",
+        "kp-0201"
+      ],
+      "tags": [
+        "technique",
+        "forehand",
+        "troubleshooting"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "正手总是出界下网怎么办？六大症状完整诊断 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "正手下网、出界、没力量、方向不稳、打到拍框、关键时刻掉链子——六大常见症状的原因分析与针对性解决方案。",
+          "en": ""
+        },
+        "keywords": [
+          "网球正手下网",
+          "正手出界怎么办",
+          "正手没力量",
+          "网球正手技术"
+        ]
+      },
+      "emoji": "🔍"
+    },
+    {
+      "id": "art-007",
+      "slug": "serve-troubleshooting",
+      "category": "technique",
+      "priority": 2,
+      "title": {
+        "zh": "发球发不好？从抛球到旋前的完整排查清单",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "双误多、速度慢、没旋转、肩膀疼，每个问题都有对应的解决方案",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 11,
+      "relatedKpIds": [
+        "kp-0401",
+        "kp-0402",
+        "kp-0403",
+        "kp-0404",
+        "kp-0406",
+        "kp-0413"
+      ],
+      "tags": [
+        "technique",
+        "serve",
+        "troubleshooting"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "发球发不好怎么办？从抛球到旋前的完整排查 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "发球是网球中最复杂的动作。本文从握拍、抛球、动力链、旋前四个环节系统排查发球问题，帮你找到真正的瓶颈并突破。",
+          "en": ""
+        },
+        "keywords": [
+          "网球发球技巧",
+          "发球怎么练",
+          "网球双误",
+          "发球速度提升",
+          "网球抛球技巧"
+        ]
+      },
+      "emoji": "🚀"
+    },
+    {
+      "id": "art-008",
+      "slug": "beat-the-pusher",
+      "category": "tactics",
+      "priority": 1,
+      "title": {
+        "zh": "怎么打败总是「磨」你的推挡型选手？",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "Pusher 的战术本质、为什么你越急越输、四种真正有效的应对策略",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 9,
+      "relatedKpIds": [
+        "kp-0711",
+        "kp-0307",
+        "kp-0509",
+        "kp-0510",
+        "kp-0707"
+      ],
+      "tags": [
+        "tactics",
+        "pusher",
+        "strategy"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "怎么打败推挡型选手 Pusher？四种实战策略 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "面对 Pusher 越急越输？本文深度分析推挡型选手的战术本质，提供四种经过验证的应对策略：耐心、变化、上网、攻击移动能力。",
+          "en": ""
+        },
+        "keywords": [
+          "怎么打败推挡",
+          "网球pusher",
+          "打网球对手磨",
+          "业余网球战术"
+        ]
+      },
+      "emoji": "🧠"
+    },
+    {
+      "id": "art-009",
+      "slug": "doubles-quick-start",
+      "category": "tactics",
+      "priority": 2,
+      "title": {
+        "zh": "业余双打速成：站位、配合与五个实用战术",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "从四个人在场上乱跑，到有章法的双打配合",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 11,
+      "relatedKpIds": [
+        "kp-0713",
+        "kp-0714",
+        "kp-0715",
+        "kp-0504",
+        "kp-0508"
+      ],
+      "tags": [
+        "tactics",
+        "doubles",
+        "positioning"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "业余双打怎么打？站位配合战术速成指南 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "双打不是两个单打——站位、沟通和配合比个人技术更重要。本文图解双打站位，讲解网前球员职责，提供五个马上能用的双打战术。",
+          "en": ""
+        },
+        "keywords": [
+          "网球双打站位",
+          "双打配合",
+          "双打战术",
+          "双打怎么打"
+        ]
+      },
+      "emoji": "🤝"
+    },
+    {
+      "id": "art-010",
+      "slug": "tennis-elbow-guide",
+      "category": "health",
+      "priority": 1,
+      "title": {
+        "zh": "网球肘完全指南：成因、预防与恢复",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "技术错误、装备问题和训练过量，三大诱因的识别与应对",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 10,
+      "relatedKpIds": [
+        "kp-0806",
+        "kp-0203",
+        "kp-0105",
+        "kp-0106",
+        "kp-0108"
+      ],
+      "tags": [
+        "health",
+        "injury",
+        "tennis-elbow",
+        "prevention"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "网球肘怎么办？成因预防与恢复完全指南 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "网球肘的成因不只是打球太多——技术错误和装备不当才是根本原因。详解预防方法、离心训练方案、Tyler twist 康复练习，以及何时该就医。",
+          "en": ""
+        },
+        "keywords": [
+          "网球肘怎么办",
+          "网球肘治疗",
+          "网球肘预防",
+          "肱骨外上髁炎",
+          "Tyler twist"
+        ]
+      },
+      "emoji": "💪"
+    },
+    {
+      "id": "art-011",
+      "slug": "kids-tennis-guide",
+      "category": "beginner",
+      "priority": 4,
+      "title": {
+        "zh": "小孩几岁开始学网球？家长完整指南",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "最佳启蒙年龄、如何选教练、要不要走专业路线、费用预期",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 10,
+      "emoji": "👶",
+      "relatedKpIds": [
+        "kp-0109",
+        "kp-0110",
+        "kp-0101"
+      ],
+      "tags": [
+        "beginner",
+        "kids",
+        "parents"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "小孩几岁学网球？家长必读指南 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "5-6 岁可以启蒙，12 岁前不建议专项化。详解不同年龄段的训练重点、教练选择、装备配置和费用预期。",
+          "en": ""
+        },
+        "keywords": [
+          "小孩学网球",
+          "儿童网球",
+          "几岁学网球",
+          "青少年网球培训"
+        ]
+      }
+    },
+    {
+      "id": "art-012",
+      "slug": "tennis-for-fitness",
+      "category": "beginner",
+      "priority": 5,
+      "title": {
+        "zh": "打网球能减肥吗？网球的真实健身价值",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "每小时消耗 400-600 大卡，但网球的价值远不止燃脂",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 8,
+      "emoji": "🔥",
+      "relatedKpIds": [
+        "kp-0801",
+        "kp-0101"
+      ],
+      "tags": [
+        "beginner",
+        "fitness",
+        "weight-loss"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "打网球能减肥吗？网球健身价值解析 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "网球每小时消耗 400-600 大卡，是高效的全身运动。但网球的健身价值远不止减脂——它还锻炼心肺、敏捷性、协调性和心理韧性。",
+          "en": ""
+        },
+        "keywords": [
+          "打网球减肥",
+          "网球消耗热量",
+          "网球健身",
+          "网球锻炼效果"
+        ]
+      }
+    },
+    {
+      "id": "art-013",
+      "slug": "tennis-shoes-guide",
+      "category": "gear",
+      "priority": 3,
+      "title": {
+        "zh": "网球鞋选购指南：为什么绝对不能穿跑鞋",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "侧向支撑、前脚掌缓震、场地适配——选对鞋比选对拍更重要",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 8,
+      "emoji": "👟",
+      "relatedKpIds": [
+        "kp-0107",
+        "kp-0809"
+      ],
+      "tags": [
+        "gear",
+        "shoes",
+        "safety"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "网球鞋怎么选？为什么不能穿跑鞋 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "穿跑鞋打网球是受伤的第一步。详解网球鞋的侧向支撑、缓震和鞋底选择，以及不同场地的鞋底需求。",
+          "en": ""
+        },
+        "keywords": [
+          "网球鞋怎么选",
+          "网球鞋推荐",
+          "打网球穿什么鞋",
+          "网球鞋和跑鞋区别"
+        ]
+      }
+    },
+    {
+      "id": "art-014",
+      "slug": "topspin-guide",
+      "category": "technique",
+      "priority": 3,
+      "title": {
+        "zh": "上旋球到底怎么打？从物理原理到场上执行",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "马格努斯效应、挥拍路径、握拍选择——让上旋从「听说过」变成「打得出」",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 10,
+      "emoji": "🌀",
+      "relatedKpIds": [
+        "kp-0207",
+        "kp-0202",
+        "kp-0206",
+        "kp-0702"
+      ],
+      "tags": [
+        "technique",
+        "topspin",
+        "forehand"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "上旋球怎么打？从原理到实战 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "上旋是现代网球的基础。从马格努斯效应讲起，拆解挥拍路径、握拍选择和旋转量控制，附实用练习方法。",
+          "en": ""
+        },
+        "keywords": [
+          "网球上旋",
+          "怎么打上旋",
+          "topspin怎么打",
+          "网球旋转"
+        ]
+      }
+    },
+    {
+      "id": "art-015",
+      "slug": "backhand-slice-weapon",
+      "category": "technique",
+      "priority": 4,
+      "title": {
+        "zh": "反手切削：被严重低估的实战武器",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "容易学、难失误、战术价值极高——你的技术库中最该有的第二样武器",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 9,
+      "emoji": "🔪",
+      "relatedKpIds": [
+        "kp-0306",
+        "kp-0307",
+        "kp-0709"
+      ],
+      "tags": [
+        "technique",
+        "backhand",
+        "slice"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "反手切削完全指南 | 被低估的实战武器 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "反手切削不是「打不好才切」，是有目的的战术选择。详解切削技术、五种战术用途和 Federer 的切削哲学。",
+          "en": ""
+        },
+        "keywords": [
+          "反手切削",
+          "网球切削怎么打",
+          "slice怎么打",
+          "网球切球"
+        ]
+      }
+    },
+    {
+      "id": "art-016",
+      "slug": "first-tournament",
+      "category": "tactics",
+      "priority": 3,
+      "title": {
+        "zh": "第一次参加业余比赛，你需要知道的一切",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "赛前准备、比赛日流程、自判规则、心理建设——从「不敢报名」到「享受比赛」",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 10,
+      "emoji": "🏆",
+      "relatedKpIds": [
+        "kp-0104",
+        "kp-0908",
+        "kp-0901",
+        "kp-0716"
+      ],
+      "tags": [
+        "tactics",
+        "tournament",
+        "beginner"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "第一次参加网球比赛？完整准备指南 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "从报名到赛后复盘的完整流程。赛前该练什么、比赛日怎么吃、自判球怎么判、紧张了怎么办——一篇搞定。",
+          "en": ""
+        },
+        "keywords": [
+          "网球比赛",
+          "业余网球赛",
+          "第一次打网球比赛",
+          "网球比赛准备"
+        ]
+      }
+    },
+    {
+      "id": "art-017",
+      "slug": "big-points-psychology",
+      "category": "tactics",
+      "priority": 4,
+      "title": {
+        "zh": "关键分总是崩？数据和心理学的双重解法",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "30-30 和破发点的正确打法：打高百分比球、信任身体、用呼吸重置",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 9,
+      "emoji": "🧊",
+      "relatedKpIds": [
+        "kp-0901",
+        "kp-0903",
+        "kp-0702",
+        "kp-0716"
+      ],
+      "tags": [
+        "tactics",
+        "mental",
+        "pressure"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "关键分总是崩？心理学解法 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "关键分不是拼技术——是拼决策和心理。用数据告诉你该打什么球，用心理学告诉你怎么保持冷静。",
+          "en": ""
+        },
+        "keywords": [
+          "网球关键分",
+          "比赛紧张怎么办",
+          "网球心理",
+          "choking怎么克服"
+        ]
+      }
+    },
+    {
+      "id": "art-018",
+      "slug": "five-minute-warmup",
+      "category": "health",
+      "priority": 2,
+      "title": {
+        "zh": "打球前 5 分钟热身方案：防伤从这里开始",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "7 个动态热身动作，从慢跑到分腿垫步，让你第一拍就进入状态",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 6,
+      "emoji": "🏃",
+      "relatedKpIds": [
+        "kp-0805",
+        "kp-0806",
+        "kp-0807"
+      ],
+      "tags": [
+        "health",
+        "warmup",
+        "injury-prevention"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "网球赛前热身方案 | 5 分钟防伤热身 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "冷肌肉打球受伤风险翻倍。一套 5 分钟的动态热身方案，7 个动作从头到脚激活，让你第一拍就进入状态。",
+          "en": ""
+        },
+        "keywords": [
+          "网球热身",
+          "打球前热身",
+          "网球热身动作",
+          "动态热身"
+        ]
+      }
+    },
+    {
+      "id": "art-019",
+      "slug": "tennis-hiit-training",
+      "category": "health",
+      "priority": 3,
+      "title": {
+        "zh": "网球体能训练：为什么 HIIT 比跑步更有效",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "网球是高强度间歇运动，你的体能训练也应该是",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 9,
+      "emoji": "⚡",
+      "relatedKpIds": [
+        "kp-0801",
+        "kp-0802",
+        "kp-0803"
+      ],
+      "tags": [
+        "health",
+        "fitness",
+        "hiit",
+        "training"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "网球体能训练 | HIIT 比跑步更有效 | 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "网球 80% 的时间是短距离爆发+恢复，跑 5 公里练的是错误的能量系统。详解适合网球的 HIIT 训练方案。",
+          "en": ""
+        },
+        "keywords": [
+          "网球体能训练",
+          "网球HIIT",
+          "网球耐力",
+          "打网球体能不够"
+        ]
+      }
+    },
+    {
+      "id": "art-020",
+      "slug": "ntrp-self-assessment",
+      "category": "technique",
+      "priority": 5,
+      "title": {
+        "zh": "你是 NTRP 几点几？业余球员水平自测指南",
+        "en": ""
+      },
+      "subtitle": {
+        "zh": "从 2.0 到 4.5 的详细对照表，三个简单测试找到你的真实水平",
+        "en": ""
+      },
+      "coverImage": null,
+      "readingTime": 8,
+      "emoji": "📊",
+      "relatedKpIds": [
+        "kp-1004",
+        "kp-1007",
+        "kp-0109"
+      ],
+      "tags": [
+        "technique",
+        "self-assessment",
+        "ntrp"
+      ],
+      "seo": {
+        "metaTitle": {
+          "zh": "NTRP 水平自测 | 你是几点几？| 网球知识库",
+          "en": ""
+        },
+        "metaDescription": {
+          "zh": "NTRP 等级从 2.0 到 5.0 详细对照。三个简单的自测方法帮你定位真实水平，并找到最大的提升突破口。",
+          "en": ""
+        },
+        "keywords": [
+          "NTRP等级",
+          "网球水平测试",
+          "网球水平自测",
+          "网球几级"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,3691 @@
+{
+  "knowledgePoints": [
+    {
+      "id": "kp-0101",
+      "kpNumber": "KP-0101",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-understanding",
+      "subSectionSlug": "understanding-tennis",
+      "title": {
+        "zh": "网球运动简介",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "overview"
+      ],
+      "crossRefs": [
+        "kp-0102",
+        "kp-0109"
+      ],
+      "terms": [
+        {
+          "zh": "单打",
+          "en": "singles"
+        },
+        {
+          "zh": "双打",
+          "en": "doubles"
+        },
+        {
+          "zh": "回合",
+          "en": "rally"
+        },
+        {
+          "zh": "上旋",
+          "en": "topspin"
+        },
+        {
+          "zh": "动力链",
+          "en": "kinetic chain"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0102",
+      "kpNumber": "KP-0102",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-understanding",
+      "subSectionSlug": "understanding-tennis",
+      "title": {
+        "zh": "网球场地类型",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "court",
+        "surface"
+      ],
+      "crossRefs": [
+        "kp-0107",
+        "kp-0607",
+        "kp-0717"
+      ],
+      "terms": [
+        {
+          "zh": "硬地",
+          "en": "hard court"
+        },
+        {
+          "zh": "红土",
+          "en": "clay court"
+        },
+        {
+          "zh": "草地",
+          "en": "grass court"
+        },
+        {
+          "zh": "滑步",
+          "en": "slide"
+        },
+        {
+          "zh": "发球上网",
+          "en": "serve and volley"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0103",
+      "kpNumber": "KP-0103",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-understanding",
+      "subSectionSlug": "understanding-tennis",
+      "title": {
+        "zh": "计分规则详解",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "rules"
+      ],
+      "crossRefs": [
+        "kp-0104"
+      ],
+      "terms": [
+        {
+          "zh": "平分",
+          "en": "deuce"
+        },
+        {
+          "zh": "占先",
+          "en": "advantage"
+        },
+        {
+          "zh": "抢七",
+          "en": "tiebreak"
+        },
+        {
+          "zh": "局",
+          "en": "game"
+        },
+        {
+          "zh": "盘",
+          "en": "set"
+        },
+        {
+          "zh": "比赛",
+          "en": "match"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0104",
+      "kpNumber": "KP-0104",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-understanding",
+      "subSectionSlug": "understanding-tennis",
+      "title": {
+        "zh": "比赛基本流程与礼仪",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "rules",
+        "etiquette"
+      ],
+      "crossRefs": [
+        "kp-0103",
+        "kp-0908"
+      ],
+      "terms": [
+        {
+          "zh": "挑边",
+          "en": "coin toss"
+        },
+        {
+          "zh": "换边",
+          "en": "changeover"
+        },
+        {
+          "zh": "鹰眼",
+          "en": "Hawk-Eye"
+        },
+        {
+          "zh": "好球",
+          "en": "in"
+        },
+        {
+          "zh": "出界",
+          "en": "out"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0105",
+      "kpNumber": "KP-0105",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-equipment",
+      "subSectionSlug": "equipment",
+      "title": {
+        "zh": "球拍选择指南",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "equipment",
+        "racket"
+      ],
+      "crossRefs": [
+        "kp-0106",
+        "kp-0806"
+      ],
+      "terms": [
+        {
+          "zh": "拍面大小",
+          "en": "head size"
+        },
+        {
+          "zh": "甜区",
+          "en": "sweet spot"
+        },
+        {
+          "zh": "平衡点",
+          "en": "balance point"
+        },
+        {
+          "zh": "头重",
+          "en": "head heavy"
+        },
+        {
+          "zh": "头轻",
+          "en": "head light"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0106",
+      "kpNumber": "KP-0106",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-equipment",
+      "subSectionSlug": "equipment",
+      "title": {
+        "zh": "球线与穿线",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "equipment",
+        "strings"
+      ],
+      "crossRefs": [
+        "kp-0105",
+        "kp-0806"
+      ],
+      "terms": [
+        {
+          "zh": "聚酯线",
+          "en": "polyester"
+        },
+        {
+          "zh": "尼龙线",
+          "en": "nylon / synthetic gut"
+        },
+        {
+          "zh": "天然肠线",
+          "en": "natural gut"
+        },
+        {
+          "zh": "磅数",
+          "en": "tension"
+        },
+        {
+          "zh": "线床模式",
+          "en": "string pattern"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0107",
+      "kpNumber": "KP-0107",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-equipment",
+      "subSectionSlug": "equipment",
+      "title": {
+        "zh": "网球鞋选择",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "equipment",
+        "shoes"
+      ],
+      "crossRefs": [
+        "kp-0102",
+        "kp-0809"
+      ],
+      "terms": [
+        {
+          "zh": "全场通用底",
+          "en": "all-court sole"
+        },
+        {
+          "zh": "人字纹",
+          "en": "herringbone pattern"
+        },
+        {
+          "zh": "侧向支撑",
+          "en": "lateral support"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0108",
+      "kpNumber": "KP-0108",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-equipment",
+      "subSectionSlug": "equipment",
+      "title": {
+        "zh": "其他装备",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "equipment"
+      ],
+      "crossRefs": [
+        "kp-0105",
+        "kp-0806"
+      ],
+      "terms": [
+        {
+          "zh": "减震器",
+          "en": "dampener"
+        },
+        {
+          "zh": "握把布",
+          "en": "overgrip"
+        },
+        {
+          "zh": "加压球",
+          "en": "pressurized ball"
+        },
+        {
+          "zh": "无压球",
+          "en": "pressureless ball"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0109",
+      "kpNumber": "KP-0109",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-learning-path",
+      "subSectionSlug": "learning-path",
+      "title": {
+        "zh": "零基础学习路线图",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "learning"
+      ],
+      "crossRefs": [
+        "kp-0201",
+        "kp-0301",
+        "kp-0401",
+        "kp-0601",
+        "kp-1004"
+      ],
+      "terms": [
+        {
+          "zh": "切削",
+          "en": "slice"
+        },
+        {
+          "zh": "迷你网球",
+          "en": "mini tennis"
+        },
+        {
+          "zh": "截击",
+          "en": "volley"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0110",
+      "kpNumber": "KP-0110",
+      "sectionId": "section-01",
+      "sectionSlug": "getting-started",
+      "subSectionId": "s01-learning-path",
+      "subSectionSlug": "learning-path",
+      "title": {
+        "zh": "如何选择教练与课程",
+        "en": ""
+      },
+      "tags": [
+        "beginner",
+        "coaching",
+        "learning"
+      ],
+      "crossRefs": [
+        "kp-0109",
+        "kp-1004",
+        "kp-1006"
+      ],
+      "terms": [
+        {
+          "zh": "USPTA",
+          "en": "United States Professional Tennis Association"
+        },
+        {
+          "zh": "PTR",
+          "en": "Professional Tennis Registry"
+        },
+        {
+          "zh": "ITF",
+          "en": "International Tennis Federation"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0201",
+      "kpNumber": "KP-0201",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-grip",
+      "subSectionSlug": "forehand-grip",
+      "title": {
+        "zh": "正手握拍类型",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "grip",
+        "beginner"
+      ],
+      "crossRefs": [
+        "kp-0202",
+        "kp-0402",
+        "kp-0304"
+      ],
+      "terms": [
+        {
+          "zh": "大陆式握拍",
+          "en": "Continental grip"
+        },
+        {
+          "zh": "东方式握拍",
+          "en": "Eastern grip"
+        },
+        {
+          "zh": "半西方式握拍",
+          "en": "Semi-Western grip"
+        },
+        {
+          "zh": "西方式握拍",
+          "en": "Western grip"
+        },
+        {
+          "zh": "食指根部",
+          "en": "index knuckle"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0202",
+      "kpNumber": "KP-0202",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-grip",
+      "subSectionSlug": "forehand-grip",
+      "title": {
+        "zh": "握拍对旋转和击球的影响",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "grip",
+        "physics"
+      ],
+      "crossRefs": [
+        "kp-0201",
+        "kp-0207",
+        "kp-0102"
+      ],
+      "terms": [
+        {
+          "zh": "拍面角度",
+          "en": "racket face angle"
+        },
+        {
+          "zh": "拍面打开",
+          "en": "open face"
+        },
+        {
+          "zh": "拍面关闭",
+          "en": "closed face"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0203",
+      "kpNumber": "KP-0203",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-kinetic-chain",
+      "subSectionSlug": "forehand-kinetic-chain",
+      "title": {
+        "zh": "正手发力链原理",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "biomechanics",
+        "kinetic-chain"
+      ],
+      "crossRefs": [
+        "kp-0404",
+        "kp-0204",
+        "kp-0804"
+      ],
+      "terms": [
+        {
+          "zh": "动力链",
+          "en": "kinetic chain"
+        },
+        {
+          "zh": "蹬地",
+          "en": "ground reaction force"
+        },
+        {
+          "zh": "转髋",
+          "en": "hip rotation"
+        },
+        {
+          "zh": "转肩",
+          "en": "shoulder rotation"
+        },
+        {
+          "zh": "单元转体",
+          "en": "unit turn"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0204",
+      "kpNumber": "KP-0204",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-kinetic-chain",
+      "subSectionSlug": "forehand-kinetic-chain",
+      "title": {
+        "zh": "引拍与准备姿势",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "technique",
+        "preparation"
+      ],
+      "crossRefs": [
+        "kp-0203",
+        "kp-0205",
+        "kp-0601"
+      ],
+      "terms": [
+        {
+          "zh": "引拍",
+          "en": "backswing / take-back"
+        },
+        {
+          "zh": "单元转体",
+          "en": "unit turn"
+        },
+        {
+          "zh": "非持拍手",
+          "en": "non-dominant hand"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0205",
+      "kpNumber": "KP-0205",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-kinetic-chain",
+      "subSectionSlug": "forehand-kinetic-chain",
+      "title": {
+        "zh": "击球点与接触",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "technique",
+        "contact"
+      ],
+      "crossRefs": [
+        "kp-0201",
+        "kp-0203",
+        "kp-0605"
+      ],
+      "terms": [
+        {
+          "zh": "击球点",
+          "en": "contact point"
+        },
+        {
+          "zh": "击球点太晚",
+          "en": "late contact"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0206",
+      "kpNumber": "KP-0206",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-kinetic-chain",
+      "subSectionSlug": "forehand-kinetic-chain",
+      "title": {
+        "zh": "随挥与收拍",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0207",
+        "kp-0203"
+      ],
+      "terms": [
+        {
+          "zh": "随挥",
+          "en": "follow-through"
+        },
+        {
+          "zh": "雨刷式随挥",
+          "en": "windshield wiper"
+        },
+        {
+          "zh": "过肩式随挥",
+          "en": "over-the-shoulder finish"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0207",
+      "kpNumber": "KP-0207",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-spin",
+      "subSectionSlug": "forehand-spin",
+      "title": {
+        "zh": "上旋正手（Topspin）",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "topspin",
+        "physics"
+      ],
+      "crossRefs": [
+        "kp-0202",
+        "kp-0702",
+        "kp-0206"
+      ],
+      "terms": [
+        {
+          "zh": "上旋",
+          "en": "topspin"
+        },
+        {
+          "zh": "马格努斯效应",
+          "en": "Magnus effect"
+        },
+        {
+          "zh": "每分钟转数",
+          "en": "RPM, Revolutions Per Minute"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0208",
+      "kpNumber": "KP-0208",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-spin",
+      "subSectionSlug": "forehand-spin",
+      "title": {
+        "zh": "平击正手（Flat）",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "flat",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0207",
+        "kp-0708"
+      ],
+      "terms": [
+        {
+          "zh": "平击",
+          "en": "flat shot"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0209",
+      "kpNumber": "KP-0209",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-spin",
+      "subSectionSlug": "forehand-spin",
+      "title": {
+        "zh": "切削正手（Slice Forehand）",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "slice",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0306",
+        "kp-0207"
+      ],
+      "terms": [
+        {
+          "zh": "切削",
+          "en": "slice"
+        },
+        {
+          "zh": "下旋",
+          "en": "backspin / underspin"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0210",
+      "kpNumber": "KP-0210",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-advanced",
+      "subSectionSlug": "forehand-advanced",
+      "title": {
+        "zh": "内旋正手（Inside-out & Inside-in）",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "advanced",
+        "tactics"
+      ],
+      "crossRefs": [
+        "kp-0604",
+        "kp-0705",
+        "kp-0701"
+      ],
+      "terms": [
+        {
+          "zh": "内旋正手",
+          "en": "inside-out / inside-in forehand"
+        },
+        {
+          "zh": "绕步",
+          "en": "run around (the backhand)"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0211",
+      "kpNumber": "KP-0211",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-advanced",
+      "subSectionSlug": "forehand-advanced",
+      "title": {
+        "zh": "开放式站位 vs 关闭式站位",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "footwork",
+        "stance"
+      ],
+      "crossRefs": [
+        "kp-0604",
+        "kp-0203",
+        "kp-0210"
+      ],
+      "terms": [
+        {
+          "zh": "开放式站位",
+          "en": "open stance"
+        },
+        {
+          "zh": "关闭式站位",
+          "en": "closed stance"
+        },
+        {
+          "zh": "半开放式站位",
+          "en": "semi-open stance"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0212",
+      "kpNumber": "KP-0212",
+      "sectionId": "section-02",
+      "sectionSlug": "forehand",
+      "subSectionId": "s02-advanced",
+      "subSectionSlug": "forehand-advanced",
+      "title": {
+        "zh": "正手常见问题诊断",
+        "en": ""
+      },
+      "tags": [
+        "forehand",
+        "diagnosis",
+        "troubleshooting"
+      ],
+      "crossRefs": [
+        "kp-0203",
+        "kp-0201",
+        "kp-0205",
+        "kp-0605",
+        "kp-0903",
+        "kp-1005"
+      ],
+      "terms": [
+        {
+          "zh": "甜区",
+          "en": "sweet spot"
+        },
+        {
+          "zh": "拍框",
+          "en": "frame"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0301",
+      "kpNumber": "KP-0301",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-two-handed",
+      "subSectionSlug": "two-handed-backhand",
+      "title": {
+        "zh": "双反握拍与基本动作",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "two-handed",
+        "grip",
+        "beginner"
+      ],
+      "crossRefs": [
+        "kp-0302",
+        "kp-0304",
+        "kp-0201"
+      ],
+      "terms": [
+        {
+          "zh": "双手反手",
+          "en": "two-handed backhand"
+        },
+        {
+          "zh": "主导手",
+          "en": "dominant hand"
+        },
+        {
+          "zh": "非惯用手",
+          "en": "non-dominant hand"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0302",
+      "kpNumber": "KP-0302",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-two-handed",
+      "subSectionSlug": "two-handed-backhand",
+      "title": {
+        "zh": "双反发力机制",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "two-handed",
+        "biomechanics"
+      ],
+      "crossRefs": [
+        "kp-0301",
+        "kp-0203",
+        "kp-0804"
+      ],
+      "terms": [
+        {
+          "zh": "躯干旋转",
+          "en": "trunk rotation"
+        },
+        {
+          "zh": "延迟",
+          "en": "separation / lag"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0303",
+      "kpNumber": "KP-0303",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-two-handed",
+      "subSectionSlug": "two-handed-backhand",
+      "title": {
+        "zh": "双反上旋与平击",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "two-handed",
+        "topspin",
+        "flat"
+      ],
+      "crossRefs": [
+        "kp-0207",
+        "kp-0208",
+        "kp-0708"
+      ],
+      "terms": [],
+      "keywords": []
+    },
+    {
+      "id": "kp-0304",
+      "kpNumber": "KP-0304",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-one-handed",
+      "subSectionSlug": "one-handed-backhand",
+      "title": {
+        "zh": "单反握拍与基本动作",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "one-handed",
+        "grip"
+      ],
+      "crossRefs": [
+        "kp-0301",
+        "kp-0305",
+        "kp-0201"
+      ],
+      "terms": [
+        {
+          "zh": "单手反手",
+          "en": "one-handed backhand"
+        },
+        {
+          "zh": "东方式反手握拍",
+          "en": "Eastern Backhand grip"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0305",
+      "kpNumber": "KP-0305",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-one-handed",
+      "subSectionSlug": "one-handed-backhand",
+      "title": {
+        "zh": "单反的优势与挑战",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "one-handed",
+        "comparison"
+      ],
+      "crossRefs": [
+        "kp-0304",
+        "kp-0301",
+        "kp-0306"
+      ],
+      "terms": [
+        {
+          "zh": "击球窗口",
+          "en": "hitting window"
+        },
+        {
+          "zh": "杠杆臂",
+          "en": "lever arm"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0306",
+      "kpNumber": "KP-0306",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-slice",
+      "subSectionSlug": "backhand-slice",
+      "title": {
+        "zh": "反手切削技术要点",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "slice",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0307",
+        "kp-0402",
+        "kp-0504"
+      ],
+      "terms": [
+        {
+          "zh": "反手切削",
+          "en": "backhand slice"
+        },
+        {
+          "zh": "下旋",
+          "en": "backspin"
+        },
+        {
+          "zh": "拍面打开",
+          "en": "open racket face"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0307",
+      "kpNumber": "KP-0307",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-slice",
+      "subSectionSlug": "backhand-slice",
+      "title": {
+        "zh": "切削的战术运用",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "slice",
+        "tactics"
+      ],
+      "crossRefs": [
+        "kp-0306",
+        "kp-0510",
+        "kp-0709",
+        "kp-0707"
+      ],
+      "terms": [
+        {
+          "zh": "过渡球",
+          "en": "transition ball"
+        },
+        {
+          "zh": "接近球",
+          "en": "approach shot"
+        },
+        {
+          "zh": "穿越球",
+          "en": "passing shot"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0308",
+      "kpNumber": "KP-0308",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-advanced",
+      "subSectionSlug": "backhand-advanced",
+      "title": {
+        "zh": "反手放小球（Drop Shot）",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "drop-shot",
+        "advanced"
+      ],
+      "crossRefs": [
+        "kp-0306",
+        "kp-0509"
+      ],
+      "terms": [
+        {
+          "zh": "放小球",
+          "en": "drop shot"
+        },
+        {
+          "zh": "伪装性",
+          "en": "disguise"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0309",
+      "kpNumber": "KP-0309",
+      "sectionId": "section-03",
+      "sectionSlug": "backhand",
+      "subSectionId": "s03-advanced",
+      "subSectionSlug": "backhand-advanced",
+      "title": {
+        "zh": "反手常见问题诊断",
+        "en": ""
+      },
+      "tags": [
+        "backhand",
+        "diagnosis",
+        "troubleshooting"
+      ],
+      "crossRefs": [
+        "kp-0301",
+        "kp-0302",
+        "kp-0304",
+        "kp-0306",
+        "kp-1005"
+      ],
+      "terms": [],
+      "keywords": []
+    },
+    {
+      "id": "kp-0401",
+      "kpNumber": "KP-0401",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-fundamentals",
+      "subSectionSlug": "serve-fundamentals",
+      "title": {
+        "zh": "发球的重要性",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "importance",
+        "beginner"
+      ],
+      "crossRefs": [
+        "kp-0411",
+        "kp-0412",
+        "kp-1002"
+      ],
+      "terms": [
+        {
+          "zh": "一发",
+          "en": "first serve"
+        },
+        {
+          "zh": "二发",
+          "en": "second serve"
+        },
+        {
+          "zh": "Ace 球",
+          "en": "ace"
+        },
+        {
+          "zh": "双误",
+          "en": "double fault"
+        },
+        {
+          "zh": "保发",
+          "en": "hold serve"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0402",
+      "kpNumber": "KP-0402",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-fundamentals",
+      "subSectionSlug": "serve-fundamentals",
+      "title": {
+        "zh": "发球握拍",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "grip",
+        "fundamental"
+      ],
+      "crossRefs": [
+        "kp-0201",
+        "kp-0406",
+        "kp-0504"
+      ],
+      "terms": [
+        {
+          "zh": "大陆式握拍",
+          "en": "Continental grip"
+        },
+        {
+          "zh": "旋前",
+          "en": "pronation"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0403",
+      "kpNumber": "KP-0403",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-fundamentals",
+      "subSectionSlug": "serve-fundamentals",
+      "title": {
+        "zh": "抛球技术",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "toss",
+        "fundamental"
+      ],
+      "crossRefs": [
+        "kp-0408",
+        "kp-0409",
+        "kp-0410",
+        "kp-0413"
+      ],
+      "terms": [
+        {
+          "zh": "抛球",
+          "en": "ball toss"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0404",
+      "kpNumber": "KP-0404",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-kinetic-chain",
+      "subSectionSlug": "serve-kinetic-chain",
+      "title": {
+        "zh": "发球的完整动力链",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "biomechanics",
+        "kinetic-chain"
+      ],
+      "crossRefs": [
+        "kp-0203",
+        "kp-0405",
+        "kp-0406"
+      ],
+      "terms": [
+        {
+          "zh": "动力链",
+          "en": "kinetic chain"
+        },
+        {
+          "zh": "髋肩分离",
+          "en": "hip-shoulder separation"
+        },
+        {
+          "zh": "肩部内旋",
+          "en": "internal rotation"
+        },
+        {
+          "zh": "旋前",
+          "en": "pronation"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0405",
+      "kpNumber": "KP-0405",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-kinetic-chain",
+      "subSectionSlug": "serve-kinetic-chain",
+      "title": {
+        "zh": "奖杯姿势（Trophy Position）",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "biomechanics",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0404",
+        "kp-0406",
+        "kp-0807"
+      ],
+      "terms": [
+        {
+          "zh": "奖杯姿势",
+          "en": "Trophy Position"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0406",
+      "kpNumber": "KP-0406",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-kinetic-chain",
+      "subSectionSlug": "serve-kinetic-chain",
+      "title": {
+        "zh": "肩上旋转与旋前（Pronation）",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "biomechanics",
+        "pronation"
+      ],
+      "crossRefs": [
+        "kp-0402",
+        "kp-0404",
+        "kp-0408",
+        "kp-0409",
+        "kp-0410"
+      ],
+      "terms": [
+        {
+          "zh": "旋前",
+          "en": "pronation"
+        },
+        {
+          "zh": "肩部内旋",
+          "en": "internal shoulder rotation"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0407",
+      "kpNumber": "KP-0407",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-kinetic-chain",
+      "subSectionSlug": "serve-kinetic-chain",
+      "title": {
+        "zh": "发球节奏与时机",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "rhythm",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0404",
+        "kp-0905"
+      ],
+      "terms": [
+        {
+          "zh": "连贯式发球",
+          "en": "fluid / continuous motion serve"
+        },
+        {
+          "zh": "停顿式发球",
+          "en": "pause motion serve"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0408",
+      "kpNumber": "KP-0408",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-types",
+      "subSectionSlug": "serve-types",
+      "title": {
+        "zh": "平击发球（Flat Serve）",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "flat",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0403",
+        "kp-0406",
+        "kp-0411"
+      ],
+      "terms": [
+        {
+          "zh": "平击发球",
+          "en": "flat serve"
+        },
+        {
+          "zh": "外角",
+          "en": "wide"
+        },
+        {
+          "zh": "追身",
+          "en": "body serve"
+        },
+        {
+          "zh": "内角",
+          "en": "T (center)"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0409",
+      "kpNumber": "KP-0409",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-types",
+      "subSectionSlug": "serve-types",
+      "title": {
+        "zh": "侧旋发球（Slice Serve）",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "slice",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0403",
+        "kp-0406",
+        "kp-0408",
+        "kp-0411"
+      ],
+      "terms": [
+        {
+          "zh": "侧旋发球",
+          "en": "slice serve"
+        },
+        {
+          "zh": "侧向旋转",
+          "en": "sidespin"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0410",
+      "kpNumber": "KP-0410",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-types",
+      "subSectionSlug": "serve-types",
+      "title": {
+        "zh": "上旋/美式发球（Kick Serve）",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "kick",
+        "topspin",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0403",
+        "kp-0406",
+        "kp-0412",
+        "kp-0409"
+      ],
+      "terms": [
+        {
+          "zh": "上旋发球",
+          "en": "kick serve"
+        },
+        {
+          "zh": "美式旋转发球",
+          "en": "American twist"
+        },
+        {
+          "zh": "背部弓形",
+          "en": "back arch"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0411",
+      "kpNumber": "KP-0411",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-advanced",
+      "subSectionSlug": "serve-advanced",
+      "title": {
+        "zh": "发球落点与战术",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "tactics",
+        "placement"
+      ],
+      "crossRefs": [
+        "kp-0705",
+        "kp-0408",
+        "kp-0409",
+        "kp-0410"
+      ],
+      "terms": [
+        {
+          "zh": "外角",
+          "en": "wide"
+        },
+        {
+          "zh": "内角 / T 位",
+          "en": "T / center"
+        },
+        {
+          "zh": "追身",
+          "en": "body serve"
+        },
+        {
+          "zh": "Deuce 区",
+          "en": "Deuce court (right side)"
+        },
+        {
+          "zh": "Ad 区",
+          "en": "Ad court (left side)"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0412",
+      "kpNumber": "KP-0412",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-advanced",
+      "subSectionSlug": "serve-advanced",
+      "title": {
+        "zh": "二发策略",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "second-serve",
+        "strategy"
+      ],
+      "crossRefs": [
+        "kp-0410",
+        "kp-0409",
+        "kp-0401"
+      ],
+      "terms": [
+        {
+          "zh": "二发",
+          "en": "second serve"
+        },
+        {
+          "zh": "双误",
+          "en": "double fault"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0413",
+      "kpNumber": "KP-0413",
+      "sectionId": "section-04",
+      "sectionSlug": "serve",
+      "subSectionId": "s04-advanced",
+      "subSectionSlug": "serve-advanced",
+      "title": {
+        "zh": "发球常见问题诊断",
+        "en": ""
+      },
+      "tags": [
+        "serve",
+        "diagnosis",
+        "troubleshooting"
+      ],
+      "crossRefs": [
+        "kp-0402",
+        "kp-0403",
+        "kp-0404",
+        "kp-0405",
+        "kp-0406",
+        "kp-0807",
+        "kp-1005"
+      ],
+      "terms": [],
+      "keywords": []
+    },
+    {
+      "id": "kp-0501",
+      "kpNumber": "KP-0501",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-return",
+      "subSectionSlug": "return-of-serve",
+      "title": {
+        "zh": "接发球站位与准备",
+        "en": ""
+      },
+      "tags": [
+        "return",
+        "positioning",
+        "preparation"
+      ],
+      "crossRefs": [
+        "kp-0502",
+        "kp-0503",
+        "kp-0601",
+        "kp-0706"
+      ],
+      "terms": [
+        {
+          "zh": "接发球",
+          "en": "return of serve"
+        },
+        {
+          "zh": "分腿垫步",
+          "en": "split step"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0502",
+      "kpNumber": "KP-0502",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-return",
+      "subSectionSlug": "return-of-serve",
+      "title": {
+        "zh": "接不同类型发球",
+        "en": ""
+      },
+      "tags": [
+        "return",
+        "technique",
+        "adaptation"
+      ],
+      "crossRefs": [
+        "kp-0501",
+        "kp-0503",
+        "kp-0408",
+        "kp-0409",
+        "kp-0410"
+      ],
+      "terms": [
+        {
+          "zh": "挡回",
+          "en": "block return"
+        },
+        {
+          "zh": "迎击",
+          "en": "step in / take the ball early"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0503",
+      "kpNumber": "KP-0503",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-return",
+      "subSectionSlug": "return-of-serve",
+      "title": {
+        "zh": "接发球的战术选择",
+        "en": ""
+      },
+      "tags": [
+        "return",
+        "tactics",
+        "strategy"
+      ],
+      "crossRefs": [
+        "kp-0501",
+        "kp-0502",
+        "kp-0706",
+        "kp-0306"
+      ],
+      "terms": [
+        {
+          "zh": "破发",
+          "en": "break of serve"
+        },
+        {
+          "zh": "接发球局",
+          "en": "return game"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0504",
+      "kpNumber": "KP-0504",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-volley",
+      "subSectionSlug": "volley",
+      "title": {
+        "zh": "正手截击技术",
+        "en": ""
+      },
+      "tags": [
+        "volley",
+        "net-play",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0505",
+        "kp-0402",
+        "kp-0601"
+      ],
+      "terms": [
+        {
+          "zh": "截击",
+          "en": "volley"
+        },
+        {
+          "zh": "迷你网球",
+          "en": "mini tennis"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0505",
+      "kpNumber": "KP-0505",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-volley",
+      "subSectionSlug": "volley",
+      "title": {
+        "zh": "反手截击技术",
+        "en": ""
+      },
+      "tags": [
+        "volley",
+        "backhand",
+        "net-play"
+      ],
+      "crossRefs": [
+        "kp-0504",
+        "kp-0301"
+      ],
+      "terms": [],
+      "keywords": []
+    },
+    {
+      "id": "kp-0506",
+      "kpNumber": "KP-0506",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-volley",
+      "subSectionSlug": "volley",
+      "title": {
+        "zh": "半截击（Half Volley）",
+        "en": ""
+      },
+      "tags": [
+        "volley",
+        "half-volley",
+        "net-play"
+      ],
+      "crossRefs": [
+        "kp-0504",
+        "kp-0510"
+      ],
+      "terms": [
+        {
+          "zh": "半截击",
+          "en": "half volley"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0507",
+      "kpNumber": "KP-0507",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-overhead-lob",
+      "subSectionSlug": "overhead-lob",
+      "title": {
+        "zh": "高压球（Overhead/Smash）",
+        "en": ""
+      },
+      "tags": [
+        "overhead",
+        "net-play",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0404",
+        "kp-0508",
+        "kp-0603"
+      ],
+      "terms": [
+        {
+          "zh": "高压球",
+          "en": "overhead / smash"
+        },
+        {
+          "zh": "交叉步后退",
+          "en": "crossover step / scissor kick"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0508",
+      "kpNumber": "KP-0508",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-overhead-lob",
+      "subSectionSlug": "overhead-lob",
+      "title": {
+        "zh": "挑高球（Lob）",
+        "en": ""
+      },
+      "tags": [
+        "lob",
+        "net-play",
+        "tactics"
+      ],
+      "crossRefs": [
+        "kp-0507",
+        "kp-0709",
+        "kp-0714"
+      ],
+      "terms": [
+        {
+          "zh": "挑高球",
+          "en": "lob"
+        },
+        {
+          "zh": "上旋挑高球",
+          "en": "topspin lob"
+        },
+        {
+          "zh": "切削挑高球",
+          "en": "slice/defensive lob"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0509",
+      "kpNumber": "KP-0509",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-special",
+      "subSectionSlug": "special-shots",
+      "title": {
+        "zh": "放小球（Drop Shot）",
+        "en": ""
+      },
+      "tags": [
+        "drop-shot",
+        "special",
+        "touch"
+      ],
+      "crossRefs": [
+        "kp-0308",
+        "kp-0306"
+      ],
+      "terms": [
+        {
+          "zh": "放小球",
+          "en": "drop shot"
+        },
+        {
+          "zh": "伪装性",
+          "en": "disguise"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0510",
+      "kpNumber": "KP-0510",
+      "sectionId": "section-05",
+      "sectionSlug": "return-net-play",
+      "subSectionId": "s05-special",
+      "subSectionSlug": "special-shots",
+      "title": {
+        "zh": "接近球（Approach Shot）",
+        "en": ""
+      },
+      "tags": [
+        "approach",
+        "net-play",
+        "tactics"
+      ],
+      "crossRefs": [
+        "kp-0504",
+        "kp-0306",
+        "kp-0606",
+        "kp-0708"
+      ],
+      "terms": [
+        {
+          "zh": "接近球",
+          "en": "approach shot"
+        },
+        {
+          "zh": "穿越球",
+          "en": "passing shot"
+        },
+        {
+          "zh": "无人区",
+          "en": "no man's land"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0601",
+      "kpNumber": "KP-0601",
+      "sectionId": "section-06",
+      "sectionSlug": "footwork",
+      "subSectionId": "s06-basics",
+      "subSectionSlug": "basic-footwork",
+      "title": {
+        "zh": "准备姿势与分腿垫步（Split Step）",
+        "en": ""
+      },
+      "tags": [
+        "footwork",
+        "split-step",
+        "fundamental"
+      ],
+      "crossRefs": [
+        "kp-0501",
+        "kp-0504",
+        "kp-0802"
+      ],
+      "terms": [
+        {
+          "zh": "分腿垫步",
+          "en": "split step"
+        },
+        {
+          "zh": "预拉伸",
+          "en": "pre-stretch / eccentric loading"
+        },
+        {
+          "zh": "弹性势能",
+          "en": "elastic potential energy"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0602",
+      "kpNumber": "KP-0602",
+      "sectionId": "section-06",
+      "sectionSlug": "footwork",
+      "subSectionId": "s06-basics",
+      "subSectionSlug": "basic-footwork",
+      "title": {
+        "zh": "横向移动与交叉步",
+        "en": ""
+      },
+      "tags": [
+        "footwork",
+        "lateral-movement"
+      ],
+      "crossRefs": [
+        "kp-0601",
+        "kp-0605",
+        "kp-0608"
+      ],
+      "terms": [
+        {
+          "zh": "侧滑步",
+          "en": "shuffle / side step"
+        },
+        {
+          "zh": "交叉步",
+          "en": "crossover step"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0603",
+      "kpNumber": "KP-0603",
+      "sectionId": "section-06",
+      "sectionSlug": "footwork",
+      "subSectionId": "s06-basics",
+      "subSectionSlug": "basic-footwork",
+      "title": {
+        "zh": "前后移动",
+        "en": ""
+      },
+      "tags": [
+        "footwork",
+        "forward-backward"
+      ],
+      "crossRefs": [
+        "kp-0507",
+        "kp-0510",
+        "kp-0504"
+      ],
+      "terms": [
+        {
+          "zh": "侧身交叉步后退",
+          "en": "crossover retreat"
+        },
+        {
+          "zh": "无人区",
+          "en": "no man's land"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0604",
+      "kpNumber": "KP-0604",
+      "sectionId": "section-06",
+      "sectionSlug": "footwork",
+      "subSectionId": "s06-hitting",
+      "subSectionSlug": "hitting-footwork",
+      "title": {
+        "zh": "开放式 / 半开放式 / 关闭式站位",
+        "en": ""
+      },
+      "tags": [
+        "footwork",
+        "stance",
+        "technique"
+      ],
+      "crossRefs": [
+        "kp-0211",
+        "kp-0602",
+        "kp-0606"
+      ],
+      "terms": [],
+      "keywords": []
+    },
+    {
+      "id": "kp-0605",
+      "kpNumber": "KP-0605",
+      "sectionId": "section-06",
+      "sectionSlug": "footwork",
+      "subSectionId": "s06-hitting",
+      "subSectionSlug": "hitting-footwork",
+      "title": {
+        "zh": "调整步（Adjustment Steps）",
+        "en": ""
+      },
+      "tags": [
+        "footwork",
+        "adjustment",
+        "precision"
+      ],
+      "crossRefs": [
+        "kp-0602",
+        "kp-0205",
+        "kp-0212"
+      ],
+      "terms": [
+        {
+          "zh": "调整步",
+          "en": "adjustment steps"
+        },
+        {
+          "zh": "小碎步",
+          "en": "stutter steps"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0606",
+      "kpNumber": "KP-0606",
+      "sectionId": "section-06",
+      "sectionSlug": "footwork",
+      "subSectionId": "s06-hitting",
+      "subSectionSlug": "hitting-footwork",
+      "title": {
+        "zh": "回位与场地覆盖",
+        "en": ""
+      },
+      "tags": [
+        "footwork",
+        "recovery",
+        "court-coverage"
+      ],
+      "crossRefs": [
+        "kp-0703",
+        "kp-0602",
+        "kp-0701"
+      ],
+      "terms": [
+        {
+          "zh": "回位",
+          "en": "recovery"
+        },
+        {
+          "zh": "角度平分原则",
+          "en": "bisecting the angle"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0607",
+      "kpNumber": "KP-0607",
+      "sectionId": "section-06",
+      "sectionSlug": "footwork",
+      "subSectionId": "s06-advanced",
+      "subSectionSlug": "advanced-footwork",
+      "title": {
+        "zh": "滑步（Slide）",
+        "en": ""
+      },
+      "tags": [
+        "footwork",
+        "slide",
+        "clay",
+        "advanced"
+      ],
+      "crossRefs": [
+        "kp-0102",
+        "kp-0107"
+      ],
+      "terms": [
+        {
+          "zh": "滑步",
+          "en": "slide"
+        },
+        {
+          "zh": "红土",
+          "en": "clay court"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0608",
+      "kpNumber": "KP-0608",
+      "sectionId": "section-06",
+      "sectionSlug": "footwork",
+      "subSectionId": "s06-advanced",
+      "subSectionSlug": "advanced-footwork",
+      "title": {
+        "zh": "紧急救球步法",
+        "en": ""
+      },
+      "tags": [
+        "footwork",
+        "emergency",
+        "advanced"
+      ],
+      "crossRefs": [
+        "kp-0602",
+        "kp-0802",
+        "kp-0709"
+      ],
+      "terms": [
+        {
+          "zh": "鱼跃救球",
+          "en": "diving shot"
+        },
+        {
+          "zh": "紧急救球",
+          "en": "emergency shot / scramble"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0701",
+      "kpNumber": "KP-0701",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-basics",
+      "subSectionSlug": "singles-fundamentals",
+      "title": {
+        "zh": "场地几何学",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "geometry",
+        "singles"
+      ],
+      "crossRefs": [
+        "kp-0702",
+        "kp-0703",
+        "kp-0704"
+      ],
+      "terms": [
+        {
+          "zh": "斜线",
+          "en": "crosscourt"
+        },
+        {
+          "zh": "直线",
+          "en": "down the line"
+        },
+        {
+          "zh": "进攻区",
+          "en": "attack zone"
+        },
+        {
+          "zh": "中性区",
+          "en": "neutral zone"
+        },
+        {
+          "zh": "防守区",
+          "en": "defensive zone"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0702",
+      "kpNumber": "KP-0702",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-basics",
+      "subSectionSlug": "singles-fundamentals",
+      "title": {
+        "zh": "回球的安全边际",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "margin",
+        "consistency"
+      ],
+      "crossRefs": [
+        "kp-0207",
+        "kp-0701",
+        "kp-0716"
+      ],
+      "terms": [
+        {
+          "zh": "安全边际",
+          "en": "margin"
+        },
+        {
+          "zh": "非受迫性失误",
+          "en": "unforced error"
+        },
+        {
+          "zh": "制胜分",
+          "en": "winner"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0703",
+      "kpNumber": "KP-0703",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-basics",
+      "subSectionSlug": "singles-fundamentals",
+      "title": {
+        "zh": "回中与角度平分原则",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "positioning",
+        "singles"
+      ],
+      "crossRefs": [
+        "kp-0606",
+        "kp-0701"
+      ],
+      "terms": [
+        {
+          "zh": "角度平分原则",
+          "en": "bisecting the angle"
+        },
+        {
+          "zh": "回位",
+          "en": "recovery position"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0704",
+      "kpNumber": "KP-0704",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-basics",
+      "subSectionSlug": "singles-fundamentals",
+      "title": {
+        "zh": "构建得分：1-2-3 模式",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "patterns",
+        "singles"
+      ],
+      "crossRefs": [
+        "kp-0701",
+        "kp-0702",
+        "kp-0705"
+      ],
+      "terms": [
+        {
+          "zh": "百分比网球",
+          "en": "percentage tennis"
+        },
+        {
+          "zh": "构建得分",
+          "en": "constructing the point"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0705",
+      "kpNumber": "KP-0705",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-advanced",
+      "subSectionSlug": "singles-advanced",
+      "title": {
+        "zh": "发球+下一拍（Serve Plus One）",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "serve",
+        "patterns"
+      ],
+      "crossRefs": [
+        "kp-0411",
+        "kp-0704",
+        "kp-0210"
+      ],
+      "terms": [
+        {
+          "zh": "发球加一",
+          "en": "Serve Plus One / S+1"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0706",
+      "kpNumber": "KP-0706",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-advanced",
+      "subSectionSlug": "singles-advanced",
+      "title": {
+        "zh": "接发球战术深度",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "return",
+        "strategy"
+      ],
+      "crossRefs": [
+        "kp-0501",
+        "kp-0502",
+        "kp-0503",
+        "kp-0716"
+      ],
+      "terms": [
+        {
+          "zh": "破发点",
+          "en": "break point"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0707",
+      "kpNumber": "KP-0707",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-advanced",
+      "subSectionSlug": "singles-advanced",
+      "title": {
+        "zh": "底线对抗的节奏控制",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "rhythm",
+        "singles"
+      ],
+      "crossRefs": [
+        "kp-0306",
+        "kp-0307",
+        "kp-0207"
+      ],
+      "terms": [
+        {
+          "zh": "节奏控制",
+          "en": "pace/rhythm control"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0708",
+      "kpNumber": "KP-0708",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-advanced",
+      "subSectionSlug": "singles-advanced",
+      "title": {
+        "zh": "攻守转换的时机判断",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "decision-making",
+        "singles"
+      ],
+      "crossRefs": [
+        "kp-0704",
+        "kp-0702",
+        "kp-0709"
+      ],
+      "terms": [
+        {
+          "zh": "中性球",
+          "en": "neutral ball"
+        },
+        {
+          "zh": "机会球",
+          "en": "short ball / opportunity ball"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0709",
+      "kpNumber": "KP-0709",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-singles-advanced",
+      "subSectionSlug": "singles-advanced",
+      "title": {
+        "zh": "防守模式与求生策略",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "defense",
+        "singles"
+      ],
+      "crossRefs": [
+        "kp-0306",
+        "kp-0508",
+        "kp-0708",
+        "kp-0902"
+      ],
+      "terms": [
+        {
+          "zh": "防守模式",
+          "en": "defensive mode"
+        },
+        {
+          "zh": "重置回合",
+          "en": "reset the rally"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0710",
+      "kpNumber": "KP-0710",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-opponent",
+      "subSectionSlug": "opponent-types",
+      "title": {
+        "zh": "四种打法风格识别",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "opponent",
+        "styles"
+      ],
+      "crossRefs": [
+        "kp-0711",
+        "kp-0712",
+        "kp-0716"
+      ],
+      "terms": [
+        {
+          "zh": "防守反击型",
+          "en": "Counterpuncher"
+        },
+        {
+          "zh": "底线进攻型",
+          "en": "Aggressive Baseliner"
+        },
+        {
+          "zh": "全场型",
+          "en": "All-Court Player"
+        },
+        {
+          "zh": "发球上网型",
+          "en": "Serve and Volley"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0711",
+      "kpNumber": "KP-0711",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-opponent",
+      "subSectionSlug": "opponent-types",
+      "title": {
+        "zh": "如何打败推挡型选手（Pusher）",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "pusher",
+        "opponent"
+      ],
+      "crossRefs": [
+        "kp-0710",
+        "kp-0307",
+        "kp-0509",
+        "kp-0510"
+      ],
+      "terms": [
+        {
+          "zh": "推挡型选手",
+          "en": "Pusher"
+        },
+        {
+          "zh": "穿越球",
+          "en": "passing shot"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0712",
+      "kpNumber": "KP-0712",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-opponent",
+      "subSectionSlug": "opponent-types",
+      "title": {
+        "zh": "预判与身体线索识别",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "anticipation",
+        "reading"
+      ],
+      "crossRefs": [
+        "kp-0501",
+        "kp-0403",
+        "kp-0710"
+      ],
+      "terms": [
+        {
+          "zh": "预判",
+          "en": "anticipation"
+        },
+        {
+          "zh": "身体线索",
+          "en": "body cues"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0713",
+      "kpNumber": "KP-0713",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-doubles",
+      "subSectionSlug": "doubles-tactics",
+      "title": {
+        "zh": "双打基本站位",
+        "en": ""
+      },
+      "tags": [
+        "doubles",
+        "positioning",
+        "tactics"
+      ],
+      "crossRefs": [
+        "kp-0714",
+        "kp-0715"
+      ],
+      "terms": [
+        {
+          "zh": "澳大利亚阵型",
+          "en": "Australian Formation"
+        },
+        {
+          "zh": "I 型阵型",
+          "en": "I-Formation"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0714",
+      "kpNumber": "KP-0714",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-doubles",
+      "subSectionSlug": "doubles-tactics",
+      "title": {
+        "zh": "网前球员的职责",
+        "en": ""
+      },
+      "tags": [
+        "doubles",
+        "net-play",
+        "tactics"
+      ],
+      "crossRefs": [
+        "kp-0713",
+        "kp-0715",
+        "kp-0504"
+      ],
+      "terms": [
+        {
+          "zh": "抢网",
+          "en": "poach"
+        },
+        {
+          "zh": "假动作",
+          "en": "fake / bluff"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0715",
+      "kpNumber": "KP-0715",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-doubles",
+      "subSectionSlug": "doubles-tactics",
+      "title": {
+        "zh": "双打配合策略",
+        "en": ""
+      },
+      "tags": [
+        "doubles",
+        "teamwork",
+        "communication"
+      ],
+      "crossRefs": [
+        "kp-0713",
+        "kp-0714"
+      ],
+      "terms": [
+        {
+          "zh": "搭档",
+          "en": "partner"
+        },
+        {
+          "zh": "中间球",
+          "en": "middle ball"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0716",
+      "kpNumber": "KP-0716",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-adjustment",
+      "subSectionSlug": "match-adjustments",
+      "title": {
+        "zh": "比赛中的战术调整",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "adjustment",
+        "momentum"
+      ],
+      "crossRefs": [
+        "kp-0702",
+        "kp-0901",
+        "kp-0902"
+      ],
+      "terms": [
+        {
+          "zh": "动量",
+          "en": "momentum"
+        },
+        {
+          "zh": "关键分",
+          "en": "big points"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0717",
+      "kpNumber": "KP-0717",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-adjustment",
+      "subSectionSlug": "match-adjustments",
+      "title": {
+        "zh": "不同场地与环境的适配",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "surface",
+        "conditions"
+      ],
+      "crossRefs": [
+        "kp-0102",
+        "kp-0702"
+      ],
+      "terms": [
+        {
+          "zh": "顺风",
+          "en": "tailwind"
+        },
+        {
+          "zh": "逆风",
+          "en": "headwind"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0718",
+      "kpNumber": "KP-0718",
+      "sectionId": "section-07",
+      "sectionSlug": "tactics",
+      "subSectionId": "s07-adjustment",
+      "subSectionSlug": "match-adjustments",
+      "title": {
+        "zh": "比赛数据与自我分析",
+        "en": ""
+      },
+      "tags": [
+        "tactics",
+        "analytics",
+        "self-improvement"
+      ],
+      "crossRefs": [
+        "kp-0909",
+        "kp-1005",
+        "kp-0401"
+      ],
+      "terms": [
+        {
+          "zh": "一发进球率",
+          "en": "first serve percentage"
+        },
+        {
+          "zh": "非受迫性失误",
+          "en": "unforced error (UE)"
+        },
+        {
+          "zh": "制胜分",
+          "en": "winner (W)"
+        },
+        {
+          "zh": "W/UE 比",
+          "en": "winner-to-unforced-error ratio"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0801",
+      "kpNumber": "KP-0801",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-fitness",
+      "subSectionSlug": "tennis-fitness",
+      "title": {
+        "zh": "网球的体能需求分析",
+        "en": ""
+      },
+      "tags": [
+        "fitness",
+        "physiology",
+        "training"
+      ],
+      "crossRefs": [
+        "kp-0802",
+        "kp-0203",
+        "kp-0404"
+      ],
+      "terms": [
+        {
+          "zh": "高强度间歇训练",
+          "en": "HIIT (High-Intensity Interval Training)"
+        },
+        {
+          "zh": "磷酸肌酸系统",
+          "en": "phosphocreatine system"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0802",
+      "kpNumber": "KP-0802",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-fitness",
+      "subSectionSlug": "tennis-fitness",
+      "title": {
+        "zh": "敏捷与爆发力训练",
+        "en": ""
+      },
+      "tags": [
+        "fitness",
+        "agility",
+        "explosiveness"
+      ],
+      "crossRefs": [
+        "kp-0601",
+        "kp-0801",
+        "kp-0608"
+      ],
+      "terms": [
+        {
+          "zh": "敏捷训练",
+          "en": "agility training"
+        },
+        {
+          "zh": "侧向穿梭跑",
+          "en": "lateral shuttle"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0803",
+      "kpNumber": "KP-0803",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-fitness",
+      "subSectionSlug": "tennis-fitness",
+      "title": {
+        "zh": "耐力与恢复能力",
+        "en": ""
+      },
+      "tags": [
+        "fitness",
+        "endurance",
+        "recovery"
+      ],
+      "crossRefs": [
+        "kp-0801",
+        "kp-0810"
+      ],
+      "terms": [
+        {
+          "zh": "间歇性有氧能力",
+          "en": "intermittent aerobic capacity"
+        },
+        {
+          "zh": "间歇跑",
+          "en": "interval running"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0804",
+      "kpNumber": "KP-0804",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-fitness",
+      "subSectionSlug": "tennis-fitness",
+      "title": {
+        "zh": "核心与旋转力量",
+        "en": ""
+      },
+      "tags": [
+        "fitness",
+        "core",
+        "rotation"
+      ],
+      "crossRefs": [
+        "kp-0203",
+        "kp-0404",
+        "kp-0302"
+      ],
+      "terms": [
+        {
+          "zh": "核心力量",
+          "en": "core strength"
+        },
+        {
+          "zh": "反旋转稳定性",
+          "en": "anti-rotation stability"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0805",
+      "kpNumber": "KP-0805",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-fitness",
+      "subSectionSlug": "tennis-fitness",
+      "title": {
+        "zh": "柔韧性与热身",
+        "en": ""
+      },
+      "tags": [
+        "fitness",
+        "flexibility",
+        "warm-up"
+      ],
+      "crossRefs": [
+        "kp-0806",
+        "kp-0807",
+        "kp-0908"
+      ],
+      "terms": [
+        {
+          "zh": "动态热身",
+          "en": "dynamic warm-up"
+        },
+        {
+          "zh": "静态拉伸",
+          "en": "static stretching"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0806",
+      "kpNumber": "KP-0806",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-injuries",
+      "subSectionSlug": "common-injuries",
+      "title": {
+        "zh": "网球肘（Tennis Elbow）",
+        "en": ""
+      },
+      "tags": [
+        "injury",
+        "tennis-elbow",
+        "prevention"
+      ],
+      "crossRefs": [
+        "kp-0203",
+        "kp-0105",
+        "kp-0106",
+        "kp-0108"
+      ],
+      "terms": [
+        {
+          "zh": "网球肘",
+          "en": "tennis elbow / lateral epicondylitis"
+        },
+        {
+          "zh": "离心训练",
+          "en": "eccentric exercise"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0807",
+      "kpNumber": "KP-0807",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-injuries",
+      "subSectionSlug": "common-injuries",
+      "title": {
+        "zh": "肩部伤病",
+        "en": ""
+      },
+      "tags": [
+        "injury",
+        "shoulder",
+        "prevention"
+      ],
+      "crossRefs": [
+        "kp-0405",
+        "kp-0404"
+      ],
+      "terms": [
+        {
+          "zh": "肩袖",
+          "en": "rotator cuff"
+        },
+        {
+          "zh": "肩峰撞击",
+          "en": "shoulder impingement"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0808",
+      "kpNumber": "KP-0808",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-injuries",
+      "subSectionSlug": "common-injuries",
+      "title": {
+        "zh": "手腕伤病",
+        "en": ""
+      },
+      "tags": [
+        "injury",
+        "wrist",
+        "prevention"
+      ],
+      "crossRefs": [
+        "kp-0201",
+        "kp-0406"
+      ],
+      "terms": [
+        {
+          "zh": "三角纤维软骨复合体",
+          "en": "TFCC (Triangular Fibrocartilage Complex)"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0809",
+      "kpNumber": "KP-0809",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-injuries",
+      "subSectionSlug": "common-injuries",
+      "title": {
+        "zh": "下肢伤病",
+        "en": ""
+      },
+      "tags": [
+        "injury",
+        "lower-body",
+        "prevention"
+      ],
+      "crossRefs": [
+        "kp-0107",
+        "kp-0805"
+      ],
+      "terms": [
+        {
+          "zh": "踝关节扭伤",
+          "en": "ankle sprain"
+        },
+        {
+          "zh": "足底筋膜炎",
+          "en": "plantar fasciitis"
+        },
+        {
+          "zh": "髌骨软化",
+          "en": "chondromalacia patella"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0810",
+      "kpNumber": "KP-0810",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-recovery",
+      "subSectionSlug": "recovery-nutrition",
+      "title": {
+        "zh": "赛后恢复流程",
+        "en": ""
+      },
+      "tags": [
+        "recovery",
+        "post-match",
+        "routine"
+      ],
+      "crossRefs": [
+        "kp-0805",
+        "kp-0811"
+      ],
+      "terms": [
+        {
+          "zh": "泡沫轴",
+          "en": "foam roller"
+        },
+        {
+          "zh": "糖原",
+          "en": "glycogen"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0811",
+      "kpNumber": "KP-0811",
+      "sectionId": "section-08",
+      "sectionSlug": "fitness-injury",
+      "subSectionId": "s08-recovery",
+      "subSectionSlug": "recovery-nutrition",
+      "title": {
+        "zh": "比赛日营养与水分",
+        "en": ""
+      },
+      "tags": [
+        "nutrition",
+        "hydration",
+        "match-day"
+      ],
+      "crossRefs": [
+        "kp-0810",
+        "kp-0803"
+      ],
+      "terms": [
+        {
+          "zh": "碳水化合物",
+          "en": "carbohydrate"
+        },
+        {
+          "zh": "电解质",
+          "en": "electrolyte"
+        },
+        {
+          "zh": "脱水",
+          "en": "dehydration"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0901",
+      "kpNumber": "KP-0901",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-match-mindset",
+      "subSectionSlug": "match-mindset",
+      "title": {
+        "zh": "关键分心理",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "big-points",
+        "pressure"
+      ],
+      "crossRefs": [
+        "kp-0702",
+        "kp-0716",
+        "kp-0903"
+      ],
+      "terms": [
+        {
+          "zh": "关键分",
+          "en": "big point / crucial point"
+        },
+        {
+          "zh": "应激反应",
+          "en": "fight-or-flight response"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0902",
+      "kpNumber": "KP-0902",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-match-mindset",
+      "subSectionSlug": "match-mindset",
+      "title": {
+        "zh": "应对逆境与连丢分",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "adversity",
+        "momentum"
+      ],
+      "crossRefs": [
+        "kp-0901",
+        "kp-0716",
+        "kp-0907"
+      ],
+      "terms": [
+        {
+          "zh": "下一分哲学",
+          "en": "next point philosophy"
+        },
+        {
+          "zh": "物理重置",
+          "en": "physical reset"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0903",
+      "kpNumber": "KP-0903",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-match-mindset",
+      "subSectionSlug": "match-mindset",
+      "title": {
+        "zh": "过度紧张与 Choking",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "choking",
+        "pressure"
+      ],
+      "crossRefs": [
+        "kp-0901",
+        "kp-0904",
+        "kp-0906"
+      ],
+      "terms": [
+        {
+          "zh": "Choking",
+          "en": "choking / performance anxiety"
+        },
+        {
+          "zh": "显式监控理论",
+          "en": "Explicit Monitoring Theory"
+        },
+        {
+          "zh": "外部焦点",
+          "en": "external focus"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0904",
+      "kpNumber": "KP-0904",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-match-mindset",
+      "subSectionSlug": "match-mindset",
+      "title": {
+        "zh": "心流状态与正向动量",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "flow",
+        "momentum"
+      ],
+      "crossRefs": [
+        "kp-0903",
+        "kp-0905",
+        "kp-0716"
+      ],
+      "terms": [
+        {
+          "zh": "心流",
+          "en": "flow / zone"
+        },
+        {
+          "zh": "动量",
+          "en": "momentum"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0905",
+      "kpNumber": "KP-0905",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-techniques",
+      "subSectionSlug": "mental-techniques",
+      "title": {
+        "zh": "赛前例行程序（Pre-point Routine）",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "routine",
+        "focus"
+      ],
+      "crossRefs": [
+        "kp-0901",
+        "kp-0906",
+        "kp-0407"
+      ],
+      "terms": [
+        {
+          "zh": "赛前例行程序",
+          "en": "pre-point routine"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0906",
+      "kpNumber": "KP-0906",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-techniques",
+      "subSectionSlug": "mental-techniques",
+      "title": {
+        "zh": "专注力管理",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "focus",
+        "concentration"
+      ],
+      "crossRefs": [
+        "kp-0903",
+        "kp-0905"
+      ],
+      "terms": [
+        {
+          "zh": "外部焦点",
+          "en": "external focus"
+        },
+        {
+          "zh": "内部焦点",
+          "en": "internal focus"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0907",
+      "kpNumber": "KP-0907",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-techniques",
+      "subSectionSlug": "mental-techniques",
+      "title": {
+        "zh": "自我对话与情绪管理",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "self-talk",
+        "emotion"
+      ],
+      "crossRefs": [
+        "kp-0902",
+        "kp-0905"
+      ],
+      "terms": [
+        {
+          "zh": "自我对话",
+          "en": "self-talk"
+        },
+        {
+          "zh": "身体语言",
+          "en": "body language"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0908",
+      "kpNumber": "KP-0908",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-pre-post",
+      "subSectionSlug": "pre-post-match",
+      "title": {
+        "zh": "比赛日准备流程",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "preparation",
+        "pre-match"
+      ],
+      "crossRefs": [
+        "kp-0811",
+        "kp-0805",
+        "kp-0905"
+      ],
+      "terms": [
+        {
+          "zh": "心理预演",
+          "en": "visualization / mental rehearsal"
+        },
+        {
+          "zh": "Yerkes-Dodson 定律",
+          "en": "Yerkes-Dodson Law"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-0909",
+      "kpNumber": "KP-0909",
+      "sectionId": "section-09",
+      "sectionSlug": "mental-game",
+      "subSectionId": "s09-pre-post",
+      "subSectionSlug": "pre-post-match",
+      "title": {
+        "zh": "赛后复盘方法",
+        "en": ""
+      },
+      "tags": [
+        "mental",
+        "review",
+        "improvement"
+      ],
+      "crossRefs": [
+        "kp-0718",
+        "kp-1005",
+        "kp-1006"
+      ],
+      "terms": [
+        {
+          "zh": "赛后复盘",
+          "en": "post-match review / debrief"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-1001",
+      "kpNumber": "KP-1001",
+      "sectionId": "section-10",
+      "sectionSlug": "practice-improvement",
+      "subSectionId": "s10-practice",
+      "subSectionSlug": "practice-structure",
+      "title": {
+        "zh": "如何安排一次有效的练习",
+        "en": ""
+      },
+      "tags": [
+        "practice",
+        "structure",
+        "improvement"
+      ],
+      "crossRefs": [
+        "kp-1002",
+        "kp-1003",
+        "kp-0109"
+      ],
+      "terms": [
+        {
+          "zh": "刻意练习",
+          "en": "deliberate practice"
+        },
+        {
+          "zh": "技术专项",
+          "en": "technical drill"
+        },
+        {
+          "zh": "战术模拟",
+          "en": "tactical simulation"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-1002",
+      "kpNumber": "KP-1002",
+      "sectionId": "section-10",
+      "sectionSlug": "practice-improvement",
+      "subSectionId": "s10-practice",
+      "subSectionSlug": "practice-structure",
+      "title": {
+        "zh": "独自练习的方法",
+        "en": ""
+      },
+      "tags": [
+        "practice",
+        "solo",
+        "improvement"
+      ],
+      "crossRefs": [
+        "kp-1001",
+        "kp-0401"
+      ],
+      "terms": [
+        {
+          "zh": "对墙练习",
+          "en": "wall practice"
+        },
+        {
+          "zh": "影子挥拍",
+          "en": "shadow swing"
+        },
+        {
+          "zh": "发球机",
+          "en": "ball machine"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-1003",
+      "kpNumber": "KP-1003",
+      "sectionId": "section-10",
+      "sectionSlug": "practice-improvement",
+      "subSectionId": "s10-practice",
+      "subSectionSlug": "practice-structure",
+      "title": {
+        "zh": "双人练习的设计",
+        "en": ""
+      },
+      "tags": [
+        "practice",
+        "drills",
+        "partner"
+      ],
+      "crossRefs": [
+        "kp-1001",
+        "kp-0705",
+        "kp-0503"
+      ],
+      "terms": [
+        {
+          "zh": "Drill",
+          "en": "drill (structured practice exercise)"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-1004",
+      "kpNumber": "KP-1004",
+      "sectionId": "section-10",
+      "sectionSlug": "practice-improvement",
+      "subSectionId": "s10-self-improvement",
+      "subSectionSlug": "self-improvement",
+      "title": {
+        "zh": "自我水平评估",
+        "en": ""
+      },
+      "tags": [
+        "self-assessment",
+        "level",
+        "improvement"
+      ],
+      "crossRefs": [
+        "kp-1005",
+        "kp-1006",
+        "kp-0109"
+      ],
+      "terms": [
+        {
+          "zh": "NTRP",
+          "en": "National Tennis Rating Program"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-1005",
+      "kpNumber": "KP-1005",
+      "sectionId": "section-10",
+      "sectionSlug": "practice-improvement",
+      "subSectionId": "s10-self-improvement",
+      "subSectionSlug": "self-improvement",
+      "title": {
+        "zh": "用视频分析自己的击球",
+        "en": ""
+      },
+      "tags": [
+        "video-analysis",
+        "self-coaching",
+        "improvement"
+      ],
+      "crossRefs": [
+        "kp-0718",
+        "kp-0909",
+        "kp-1004"
+      ],
+      "terms": [
+        {
+          "zh": "Feel vs Real",
+          "en": "Feel vs Real (感觉与现实的差距)"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-1006",
+      "kpNumber": "KP-1006",
+      "sectionId": "section-10",
+      "sectionSlug": "practice-improvement",
+      "subSectionId": "s10-self-improvement",
+      "subSectionSlug": "self-improvement",
+      "title": {
+        "zh": "目标设定与训练规划",
+        "en": ""
+      },
+      "tags": [
+        "goal-setting",
+        "planning",
+        "improvement"
+      ],
+      "crossRefs": [
+        "kp-1004",
+        "kp-0909",
+        "kp-1007"
+      ],
+      "terms": [
+        {
+          "zh": "训练日志",
+          "en": "training journal"
+        }
+      ],
+      "keywords": []
+    },
+    {
+      "id": "kp-1007",
+      "kpNumber": "KP-1007",
+      "sectionId": "section-10",
+      "sectionSlug": "practice-improvement",
+      "subSectionId": "s10-self-improvement",
+      "subSectionSlug": "self-improvement",
+      "title": {
+        "zh": "突破平台期",
+        "en": ""
+      },
+      "tags": [
+        "plateau",
+        "breakthrough",
+        "improvement"
+      ],
+      "crossRefs": [
+        "kp-1004",
+        "kp-1005",
+        "kp-1006",
+        "kp-0801",
+        "kp-0901"
+      ],
+      "terms": [
+        {
+          "zh": "平台期",
+          "en": "plateau"
+        },
+        {
+          "zh": "技术天花板",
+          "en": "technical ceiling"
+        }
+      ],
+      "keywords": []
+    }
+  ],
+  "total": 107
+}

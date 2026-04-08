@@ -1,0 +1,475 @@
+@import "tailwindcss";
+
+@theme {
+  --color-stone-bg: #F8F6F3;
+  --color-stone-card: #FFFFFF;
+  --color-stone-sidebar: #F0EDE8;
+  --color-stone-border: #E5E0D8;
+  --color-text-primary: #3D3D3D;
+  --color-text-secondary: #6B6B6B;
+  --color-forest: #4A7C59;
+  --color-forest-dark: #3A6347;
+  --color-forest-light: #E8F0EB;
+  --color-amber: #C45B52;
+  --color-amber-dark: #A84B43;
+  --color-amber-light: #FCEEED;
+  --color-teal: #5B7FBF;
+  --color-teal-dark: #4A6BA6;
+  --color-teal-light: #EDF2FA;
+  --color-gold: #A68A2A;
+  --color-gold-dark: #8C7422;
+  --color-gold-light: #F9F3E2;
+
+  --font-sans: "Helvetica Neue", "Helvetica", "PingFang SC", "Microsoft YaHei", "Arial", sans-serif;
+}
+
+/* Dark mode: override CSS variables when html.dark is active */
+html.dark {
+  --color-stone-bg: #1A1D21;
+  --color-stone-card: #23272E;
+  --color-stone-sidebar: #1F2228;
+  --color-stone-border: #3A3F47;
+  --color-text-primary: #E0E0E0;
+  --color-text-secondary: #9CA3AF;
+  --color-forest: #6AAF7D;
+  --color-forest-dark: #5A9A6B;
+  --color-forest-light: #1E2E24;
+  --color-amber: #E07B73;
+  --color-amber-dark: #D06B63;
+  --color-amber-light: #2E1F1E;
+  --color-teal: #7FA3D6;
+  --color-teal-dark: #6B90C4;
+  --color-teal-light: #1C2536;
+  --color-gold: #D4B44A;
+  --color-gold-dark: #BFA040;
+  --color-gold-light: #2C2818;
+  color-scheme: dark;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-stone-bg);
+  color: var(--color-text-primary);
+  font-family: var(--font-sans);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  transition: background-color 0.2s ease, color 0.2s ease;
+}
+
+/* Dark mode overrides for Tailwind's built-in color classes (bg-white, shadow, etc.) */
+html.dark .bg-white {
+  background-color: var(--color-stone-card) !important;
+}
+html.dark .bg-white\/80 {
+  background-color: rgba(35, 39, 46, 0.8) !important;
+}
+html.dark .bg-white\/60 {
+  background-color: rgba(35, 39, 46, 0.6) !important;
+}
+html.dark .bg-gray-50 {
+  background-color: var(--color-stone-sidebar) !important;
+}
+html.dark .shadow-sm {
+  --tw-shadow-color: rgba(0, 0, 0, 0.3);
+}
+html.dark .shadow-md {
+  --tw-shadow-color: rgba(0, 0, 0, 0.4);
+}
+html.dark .shadow-lg {
+  --tw-shadow-color: rgba(0, 0, 0, 0.5);
+}
+html.dark .text-red-500 {
+  color: #f87171 !important;
+}
+html.dark .bg-red-50 {
+  background-color: #2A1F1F !important;
+}
+html.dark .border-red-200 {
+  border-color: #5C2D2D !important;
+}
+
+/* Tip block (blue) */
+.tip-block {
+  background-color: #EFF6FF;
+  border-color: #60A5FA;
+}
+.tip-block-title {
+  color: #2563EB;
+}
+html.dark .tip-block {
+  background-color: #1A2332;
+  border-color: #3B82F6;
+}
+html.dark .tip-block-title {
+  color: #60A5FA;
+}
+
+/* Warning block (red) */
+.warning-block {
+  background-color: #FEF2F2;
+  border-color: #F87171;
+}
+.warning-block-title {
+  color: #DC2626;
+}
+html.dark .warning-block {
+  background-color: #2A1F1F;
+  border-color: #EF4444;
+}
+html.dark .warning-block-title {
+  color: #F87171;
+}
+
+/* Fix SVG icons not rendering on iOS Safari */
+svg {
+  display: block;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: var(--color-stone-border);
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: var(--color-text-secondary);
+}
+
+.markdown-content h3 {
+  font-size: 1.125rem;
+  font-weight: 600;
+  margin-top: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.markdown-content p {
+  margin-bottom: 0.75rem;
+  line-height: 1.75;
+}
+
+.markdown-content ul {
+  list-style: disc;
+  padding-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.markdown-content li {
+  margin-bottom: 0.375rem;
+  line-height: 1.65;
+}
+
+.markdown-content h4 {
+  font-size: 1rem;
+  font-weight: 600;
+  margin-top: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.markdown-content strong {
+  font-weight: 600;
+}
+
+.markdown-content ol {
+  list-style: decimal;
+  padding-left: 1.5rem;
+  margin-bottom: 0.75rem;
+}
+
+.markdown-content ol li {
+  margin-bottom: 0.375rem;
+  line-height: 1.65;
+}
+
+.markdown-content blockquote {
+  border-left: 3px solid var(--color-forest);
+  padding-left: 1rem;
+  margin: 1rem 0;
+  color: var(--color-text-secondary);
+  font-style: italic;
+}
+
+.markdown-content code {
+  background: var(--color-stone-sidebar);
+  padding: 0.125rem 0.375rem;
+  border-radius: 0.25rem;
+  font-size: 0.875rem;
+}
+
+.markdown-content hr {
+  border: none;
+  border-top: 1px solid var(--color-stone-border);
+  margin: 1.5rem 0;
+}
+
+/* Lightbox animations */
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes scaleIn {
+  from { opacity: 0; transform: scale(0.92); }
+  to { opacity: 1; transform: scale(1); }
+}
+
+@keyframes slideUp {
+  from { opacity: 0; transform: translateY(8px); }
+  to { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes fadeInUp {
+  from { opacity: 0; transform: translate(-50%, 4px); }
+  to { opacity: 1; transform: translate(-50%, 0); }
+}
+
+.animate-fadeIn {
+  animation: fadeIn 0.2s ease-out;
+}
+
+.animate-scaleIn {
+  animation: scaleIn 0.25s ease-out;
+}
+
+.animate-slideUp {
+  animation: slideUp 0.2s ease-out;
+}
+
+.animate-fadeInUp {
+  animation: fadeInUp 0.3s ease-out;
+}
+
+/* ═══════════════════════════════════════════
+   微动效系统
+   ═══════════════════════════════════════════ */
+
+/* --- 入场动画 keyframes --- */
+@keyframes enterUp {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+@keyframes enterFade {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes lineExpand {
+  from { transform: scaleX(0); }
+  to   { transform: scaleX(1); }
+}
+
+/* --- 入场动画 utility classes --- */
+/* 初始状态：不可见 */
+.anim-ready {
+  opacity: 0;
+  transform: translateY(16px);
+  will-change: opacity, transform;
+}
+
+/* 触发态：播放动画 */
+.anim-ready.anim-visible {
+  animation: enterUp 0.45s cubic-bezier(0.22, 1, 0.36, 1) forwards;
+}
+
+/* 动画结束后：移除 animation，用普通属性保持终态，让 hover 等交互正常工作 */
+.anim-ready.anim-done {
+  animation: none;
+  opacity: 1;
+  transform: translateY(0);
+}
+
+/* stagger 延迟（子元素用） */
+.anim-delay-1 { animation-delay: 60ms; }
+.anim-delay-2 { animation-delay: 120ms; }
+.anim-delay-3 { animation-delay: 180ms; }
+.anim-delay-4 { animation-delay: 240ms; }
+.anim-delay-5 { animation-delay: 300ms; }
+.anim-delay-6 { animation-delay: 360ms; }
+
+/* --- 卡片 hover 提升 --- */
+.card-hover {
+  transition: transform 0.2s cubic-bezier(0.22, 1, 0.36, 1),
+              box-shadow 0.2s cubic-bezier(0.22, 1, 0.36, 1);
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px -8px rgba(0, 0, 0, 0.1);
+}
+html.dark .card-hover:hover {
+  box-shadow: 0 8px 24px -8px rgba(0, 0, 0, 0.3);
+}
+
+/* --- 按钮点击反馈 --- */
+.btn-press {
+  transition: transform 0.1s ease;
+}
+.btn-press:active {
+  transform: scale(0.97);
+}
+
+/* --- Header 毛玻璃 --- */
+.header-glass {
+  transition: background-color 0.3s ease, backdrop-filter 0.3s ease, -webkit-backdrop-filter 0.3s ease, box-shadow 0.3s ease;
+}
+.header-glass.header-scrolled {
+  background-color: rgba(255, 255, 255, 0.72) !important;
+  backdrop-filter: saturate(180%) blur(12px);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.06);
+}
+html.dark .header-glass.header-scrolled {
+  background-color: rgba(35, 39, 46, 0.75) !important;
+  box-shadow: 0 1px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* --- 尊重用户系统设置 --- */
+@media (prefers-reduced-motion: reduce) {
+  .anim-ready {
+    opacity: 1;
+    transform: none;
+  }
+  .anim-ready.anim-visible {
+    animation: none;
+  }
+  .card-hover:hover {
+    transform: none;
+  }
+  .btn-press:active {
+    transform: none;
+  }
+  .header-glass.header-scrolled {
+    backdrop-filter: none;
+    -webkit-backdrop-filter: none;
+  }
+}
+
+/* Hide scrollbar for horizontal scroll containers */
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+
+/* --- 攀岩动物人格入口动效 --- */
+@keyframes diagnosis-glow {
+  0%, 100% { opacity: 0.25; transform: scale(1); }
+  50%      { opacity: 0.45; transform: scale(1.02); }
+}
+@keyframes diagnosis-gradient {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+@keyframes diagnosis-wiggle {
+  0%, 100% { transform: rotate(0deg) scale(1); }
+  25%      { transform: rotate(-8deg) scale(1.1); }
+  75%      { transform: rotate(6deg) scale(1.05); }
+}
+.diagnosis-card {
+  position: relative;
+  background: linear-gradient(135deg, #FF6B35, #E8891C, #FF8C42, #E8565C, #FF6B35);
+  background-size: 300% 300%;
+  animation: diagnosis-gradient 6s ease infinite;
+  overflow: visible;
+  will-change: background-position;
+}
+.diagnosis-card::before {
+  content: '';
+  position: absolute;
+  inset: -3px;
+  border-radius: inherit;
+  background: linear-gradient(135deg, rgba(255,107,53,0.4), rgba(232,137,28,0.25), rgba(255,140,66,0.2), rgba(232,86,92,0.4));
+  z-index: -1;
+  filter: blur(6px);
+  will-change: opacity, transform;
+  animation: diagnosis-glow 3s ease-in-out infinite;
+}
+.diagnosis-emoji {
+  animation: diagnosis-wiggle 3s ease-in-out infinite;
+}
+
+/* ── Markdown 表格样式（Notion 风格） ── */
+.markdown-content table {
+  width: 100%;
+  border-collapse: separate;
+  border-spacing: 0;
+  margin: 1.25rem 0;
+  font-size: 0.8125rem;
+  line-height: 1.6;
+  border: 1px solid #e8e5e1;
+  border-radius: 0.5rem;
+  overflow: hidden;
+}
+.markdown-content thead th {
+  background: linear-gradient(to bottom, #f7f5f2, #f0eee9);
+  font-weight: 600;
+  font-size: 0.75rem;
+  text-align: left;
+  padding: 0.625rem 1rem;
+  color: #55524e;
+  letter-spacing: 0.01em;
+  border-bottom: 1px solid #e0ddd8;
+  white-space: nowrap;
+}
+.markdown-content thead th:not(:last-child) {
+  border-right: 1px solid #e8e5e1;
+}
+.markdown-content tbody td {
+  padding: 0.625rem 1rem;
+  border-bottom: 1px solid #f0eee9;
+  vertical-align: top;
+  color: #37352f;
+}
+.markdown-content tbody td:not(:last-child) {
+  border-right: 1px solid #f0eee9;
+}
+.markdown-content tbody tr:last-child td {
+  border-bottom: none;
+}
+.markdown-content tbody tr:nth-child(even) {
+  background-color: #fafaf8;
+}
+.markdown-content tbody tr:hover {
+  background-color: #f0eeeb;
+}
+
+/* Dark mode */
+.dark .markdown-content table {
+  border-color: #3a3a3a;
+}
+.dark .markdown-content thead th {
+  background: linear-gradient(to bottom, #2a2a2a, #252525);
+  color: #a0a0a0;
+  border-bottom-color: #3a3a3a;
+}
+.dark .markdown-content thead th:not(:last-child) {
+  border-right-color: #3a3a3a;
+}
+.dark .markdown-content tbody td {
+  color: #d4d4d4;
+  border-bottom-color: #2e2e2e;
+}
+.dark .markdown-content tbody td:not(:last-child) {
+  border-right-color: #2e2e2e;
+}
+.dark .markdown-content tbody tr:nth-child(even) {
+  background-color: rgba(255, 255, 255, 0.02);
+}
+.dark .markdown-content tbody tr:hover {
+  background-color: rgba(255, 255, 255, 0.05);
+}
+
+/* 移动端表格水平滚动 */
+@media (max-width: 640px) {
+  .markdown-content table {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
